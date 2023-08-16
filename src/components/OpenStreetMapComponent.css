@@ -1,0 +1,25 @@
+/* Example styles for map container */
+.map-container {
+  border: 1px solid #ccc;
+  width: 100%;
+  height: 100vh;
+}
+
+/* Example styles for GeoJSON layer */
+.geojson-layer {
+  stroke: blue;
+  stroke-width: 2;
+  fill: none;
+}
+
+/* Additional styles for dark theme */
+.dark-theme {
+  background-color: #111;
+  color: #fff;
+}
+
+/* Additional styles for light theme */
+.light-theme {
+  background-color: #fff;
+  color: #333;
+}
